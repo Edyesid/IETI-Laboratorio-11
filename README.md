@@ -40,7 +40,9 @@ Agregar un boton
 
 ![](img/7.jpeg)
 
-## Iniciar otra actividad
+## Parte 4
+
+Iniciar otra actividad
 
 ![](img/8.jpeg)
 
