@@ -2,6 +2,8 @@
 ### Escuela Colombiana de Ingeniería Julio Garavito
 ### Edwin Yesid Rodriguez Maldonado
 
+Enunciado: [cómo crear tu primera app](https://developer.android.com/training/basics/firstapp/)
+
 ## Parte 1
 
 Crear un nuevo proyecto en Android Studio
